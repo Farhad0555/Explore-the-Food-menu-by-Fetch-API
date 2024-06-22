@@ -1,0 +1,11 @@
+#extra-div{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:15px;
+    
+}
+.user{
+    border:2px solid red;
+    padding: 20px;
+    border-radius:20px;
+}
